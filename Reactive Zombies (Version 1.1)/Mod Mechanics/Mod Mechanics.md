@@ -1,4 +1,27 @@
 # Mod Mechanics
+## Mechanics
+- **Demolisher Mode:** If a player isn't seen by zombies in a day, make the zombies more destructive (these stats revert a stage if the player is seen by zombies again);
+- **Last Resort:** If a zombie is about to die, there's a chance it becomes stronger and faster, as a last resort to try to survive.
+    - Last Resort can happen if a hit zombie's HP is below 100;
+    - Base probability is 1%;
+    - Probability increases if:
+        - *Chasing Zombies:* If chased by 3 or less zombies, increase probability by 1%-2%-3% as zombies chasing goes down to 1;
+        - *Player Health:* Increase chance by 2% for every 25% HP the player loses (up to 6%, 75% max HP loss);
+        - *Player Weapon:* If the player hit the zombie with a ranged weapon, increase chance by 2%;
+        - *Player Wounds:* Every unbandaged wound increases chance by 3% (12% max), if it's bandaged, it's 1% (4% max).
+    - After a last resort zombie dies, it emmits a sounds with a radius up to 50 tiles, attracting other zombies, so be careful!
+- **Player Playstyle:**
+    - Zombies can become stronger on a X:1 kills/days survived ratio (customizable in Sandbox Settings);
+    - Zombies can become tougher on a X:1 kills/days survived ratio (customizable in Sandbox Settings).
+- **Smartness**
+    - Every X days, if you don't kill zombies, all their behavior attributes (found in Advanced Zombie Options) will evolve.
+- **Time elapsed:**
+    - If enabled, each day there's a probability that zombie fire resistance increases to a maximum (customizable in Sandbox Settings). Zombies take x4 damage to fire at the start of the game;
+    - If enabled, each day there's a probability that zombie mortality increases, making zombification faster (customizable in Sandbox Settings);
+- **Time of Day:** At night, zombies see less;
+- **Weather:** Zombies may be more blind, slower and less perceptive during stormy, foggy, rainy and snowy days.
+
+## Zombie Attributes and Behavior
 All zombie attributes and behavior can change. Every day, at 0am, the game checks the player stats and zombie stats. If they have to change (due to, for example, killing more than X zombies per day), it updates the zombies in your cell and every other zombie you're going to see will spawn with already buffed/nerfed stats.
 - **ATTRIBUTES:**
     - **Strength:** Depends on player playstyle, and zombie Last Resort. If you set it to random, the mod won't change zombie strength;

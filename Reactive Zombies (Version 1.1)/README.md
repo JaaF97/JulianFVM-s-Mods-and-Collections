@@ -7,7 +7,7 @@ After months of slaying zombie after zombie, you may feel like they're too weak,
 This mod is part of my [**mod collection**](https://steamcommunity.com/sharedfiles/filedetails/?id=2969507692), which goal is to make the world as reactive to your actions and playstyle as possible. Check it out!.
 [![](https://i.ibb.co/mh5xVYR/Promo.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2969507692)
 
-## Mod Content:
+## Mod Content & Mechanics:
 Zombie attributes and behavior are now dynamic. Long gone are the days where zombies were just the same on day 1 and after 6 months. First, let me explain what mechanics the mod use for zombie attributes and behavior to change with time:
 - **Demolisher Mode:** If a player isn't seen by zombies in a day, make the zombies more destructive (these stats revert a stage if the player is seen by zombies again);
 - **Last Resort:** If a zombie is about to die, there's a chance it becomes stronger and faster, as a last resort to try to survive.
@@ -29,7 +29,14 @@ Zombie attributes and behavior are now dynamic. Long gone are the days where zom
 - **Time of Day:** At night, zombies see less;
 - **Weather:** Zombies may be more blind, slower and less perceptive during stormy, foggy, rainy and snowy days.
 
-Every zombie attribute (strength, toughness, cognition, etc.) depends on these mechanics. If you want to know exactly exactly how they change, check [**GitHub**](https://github.com/JaaF97/Reactive-World-Mod-Collection/tree/master/Reactive%20Zombies%20(Version%201.1)), in Reactive Zombies (Version x)/Mod Mechanics.
+Every zombie attribute (strength, toughness, cognition, etc.) and behavior depends on these mechanics.
+
+## More information
+For more information about
+- Changelog;
+- Compatibility;
+- Mod Mechanics.
+Check Reactive Zombies (Version x) in [**GitHub**](https://github.com/JaaF97/Reactive-World-Mod-Collection)
 
 ## Help! This doesn't work:
 - Make sure you are subscribed and **ENABLED** my mod to my mod;
