@@ -1,0 +1,23 @@
+# Mod Mechanics
+All zombie attributes and behavior can change. Every day, at 0am, the game checks the player stats and zombie stats. If they have to change (due to, for example, killing more than X zombies per day), it updates the zombies in your cell and every other zombie you're going to see will spawn with already buffed/nerfed stats.
+- **ATTRIBUTES:**
+    - **Strength:** Depends on player playstyle, and zombie Last Resort. If you set it to random, the mod won't change zombie strength;
+    - **Toughness:** Depends on player playstyle. If you set it to random, the mod won't change zombie toughness;
+    - **Cognition:** Depends on Demolisher Mode. Max cognition is Navigate (Navigate + doors could be implemented);
+    - **Memory:** Depends on zombie smartness. If you're killing too many zombies, memory will improve each day. Else, it's random;
+    - **Sight:** Affected by weather and time of day. If it's foggy, snowy or is night time, it's reduced;
+    - **Hearing:** Affected by weather. If it's rainy, it's reduced;
+    - **Enviromental Damage:** Depends on Demolisher Mode. Perma-demolisher mode will make this true forever;
+    - **Thump On Construction:** Depends on Demolisher Mode. Perma-demolisher mode will make this true forever;
+    - **Crawl Under Vehicle:** Depends on Demolisher Mode. Perma-demolisher mode will make this ALWAYS forever;
+    - **Mortality:** Depens on elapsed time. Every 30 days, the probability will increase slowly to 100% after 50 days;
+    - **Drag Down:** Depends on Demolisher Mode. Perma-demolisher mode will make this true forever;
+    - **Fence Lunge:** Depends on Demolisher Mode. Perma-demolisher mode will make this true forever;
+    - **Fire Resistance:** Depends on elapsed time. Every 25 days, the probability will increase slowly to 100% after 50 days;
+- **BEHAVIOR:**
+    - **Follow Sound Distance:** The distance a zombie will try to walk towards the last sound it heard. This value increases as zombies get smarter;
+    - **Redistribute Hours:** The number of hours that must pass before zombies migrate to empty parts of the same cell. This value decreases as zombies get smarter;
+    - **Rally Group Size:** The size of hordes. This value decreases or increases, depending if you want smaller or bigger hordes;
+    - **Rally Travel Distance:** The distance zombies travel to form hordes. This value increases as zombies get smarter;
+    - **Rally Group Separation:** The distance between hordes. This value decreases or increases, depending if you want hordes to spread or stay together;
+    - **Rally Group Radius:** How close members of a horde stay to the horde's leader. This value increases as zombies get smarter.
