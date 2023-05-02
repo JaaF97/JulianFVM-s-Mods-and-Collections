@@ -5,7 +5,7 @@ Zombie attributes and behavior change with your actions. Too aggressive? Zombies
 After months of slaying zombie after zombie, you may feel like they're too weak, they don't respond to your actions, they're just walking/sprinting things wanting to eat your brain, but that's it. They won't change, their strength is the same at day 1 and day 365. If they are about to die, they behave the same as if nothing is happening. Well, time to change all that!.
 
 This mod is part of my [**mod collection**](https://steamcommunity.com/sharedfiles/filedetails/?id=2969507692), which goal is to make the world as reactive to your actions and playstyle as possible. Check it out!.
-[![](https://i.ibb.co/mh5xVYR/Promo.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2969507692)
+[![](https://i.ibb.co/W5PkHbn/Promo.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2969507692)
 
 ## Mod Content & Mechanics:
 Zombie attributes and behavior are now dynamic. Long gone are the days where zombies were just the same on day 1 and after 6 months. First, let me explain what mechanics the mod use for zombie attributes and behavior to change with time:

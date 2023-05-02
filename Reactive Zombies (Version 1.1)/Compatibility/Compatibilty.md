@@ -10,6 +10,7 @@
     - Zombies Fear The Sun (should work fine, but not tested enough).
 - Incompatible with:
     - Any mod that changes Zombie.Lore or Zombie.Config. Some can be compatible, make sure to always load my mod at the bottom if possible (using ModManager)
-    - Customizable Zombies
+    - Customizable Zombies;
     - Personalized Zombies;
-    - Random Zombies (this mod changes zombies attributes and updates them frequently, making my mod mechanics unstable at times, I don't recommend enabling both, but go ahead if you want).
+    - Random Zombies (this mod changes zombies attributes and updates them frequently, making my mod mechanics unstable at times, I don't recommend enabling both, but go ahead if you want);
+    - Zambies.
