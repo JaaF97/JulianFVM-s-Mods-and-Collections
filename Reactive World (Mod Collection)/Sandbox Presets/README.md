@@ -1,12 +1,118 @@
-# Sandbox Settings:
+# Reactive World Sandbox Settings:
 - Navigate to C:\Users\%Username%\Zomboid\Sandbox Presets (where %Username% is your username);
 - Paste here the .cfg file available in GitHub (you can download all of them and check out which suits you).
 
-## Reactive World (Easy):
-WIP
+## Sandbox Settings in detail:
+- **Population:** Default Values (across all difficulties)
+### Reactive World (Easy):
 
-## Reactive World (Normal):
-WIP
-
-## Reactive World (Hard)
-WIP
+- **Time:** 09/07/1993 (July 9th) at 7am
+- **World:**
+    - Water Shutoff: Instant
+    - Electricity Shutoff: Instant
+    - Months since Apocalypse: 12
+    - Darkness during night: Dark
+- **Nature:**
+    - Default Values
+- **Sadistic AI Director:**
+    - Helicopter Events: Never
+    - Meta Events: Never
+    - Sleeping Events: Never
+- **Meta:**
+    - Generator Spawn: Rare
+    - Randomized House Chance: Sometimes
+    - Randomized Vehicle Story: Sometimes
+- **Loot Rarity:**
+    - All Extremely Rare
+- **Character:**
+    - Weapon Multi Hit: True
+- **In-game map:**: not touched
+- **Vehicles:**
+    - Default values
+- **Zombie Lore:**
+    - Default values
+- **Advanced Zombie Options:**
+    - Population Multiplier: 1.0
+    - Population Peak: 1.0
+    - Redistribute Hours: 10
+    - Follow Sound Distance: 350
+### Reactive World (Normal):
+- **Time:** 09/09/1993 (September 9th) at 7am
+- **World:**
+    - Water Shutoff: Instant
+    - Electricity Shutoff: Instant
+    - Months since Apocalypse: 12
+    - Darkness during night: Dark
+    - *Initial Gas Amount: Low*
+- **Nature:**
+    - Default Values
+- **Sadistic AI Director:**
+    - Helicopter Events: Never
+    - Meta Events: Never
+    - Sleeping Events: Never
+- **Meta:**
+    - Generator Spawn: *Extremely Rare*
+    - Randomized House Chance: Sometimes
+    - Randomized Vehicle Story: Sometimes
+- **Loot Rarity:**
+    - All Extremely Rare, *except Ranged Weapons and Ammo (insanely rare)*
+- **Character:**
+    - Weapon Multi Hit: True
+- **In-game map:**: not touched
+- **Vehicles:**
+    - *Car Spawn Rate: Very Low*
+    - *Car Alarms Frequency: Rare*
+    - *Car Damage on Impact: High*
+- **Zombie Lore:**
+    - Default values
+    - *Zombies house alarm triggering*
+- **Advanced Zombie Options:**
+    - Population Multiplier: 1.0
+    - Population Peak: *1.5*
+    - Redistribute Hours: 10
+    - Follow Sound Distance: 350
+### Reactive World (Hard):
+- **Time:** 09/11/1993 (November 9th) at 7am
+- **World:**
+    - Water Shutoff: Instant
+    - Electricity Shutoff: Instant
+    - Months since Apocalypse: 12
+    - Darkness during night: *Pitch Black*
+    - Initial Gas Amount: *Very Low*
+- **Nature:**
+    - *Farming's Abundance: Poor*
+    - *Nature's Abundance: Poor*
+- **Sadistic AI Director:**
+    - Helicopter Events: Never
+    - Meta Events: Never
+    - Sleeping Events: Never
+- **Meta:**
+    - Generator Spawn: Extremely Rare
+    - *Generator Fuel Consumption: 1.25*
+    - Randomized House Chance: Sometimes
+    - Randomized Vehicle Story: Sometimes
+    - *Decaying Corpse Health Impact: High*
+- **Loot Rarity:**
+    - All *Insanely Rare*
+- **Character:**
+    - *Injury Severity: High*
+    - *CLothing degradation: Fast*
+    - Weapon Multi Hit: *False*
+- **In-game map:**: not touched
+- **Vehicles:**
+    - *Recent Survivor Vehicles: None*
+    - Car Spawn Rate: Very Low
+    - *Initial Gas: Very Low*
+    - *General Condition: Very Low*
+    - Car Alarms Frequency: Rare
+    - Car Damage on Impact: *Very High*
+    - *Siren shutoff hours: 3.0*
+- **Zombie Lore:**
+    - Default values
+    - Zombies house alarm triggering
+    - *Environmental Attacks*
+- **Advanced Zombie Options:**
+    - Population Multiplier: *1.5*
+    - Population Peak: 1.5
+    - Redistribute Hours: *8*
+    - Follow Sound Distance: *500*
