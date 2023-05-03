@@ -32,8 +32,13 @@ Zombie attributes and behavior are now dynamic. Long gone are the days where zom
 Every zombie attribute (strength, toughness, cognition, etc.) and behavior depends on these mechanics.
 
 ## Compatibility
-Reactive Zombies, as of Version 1.21, is now compatible with CDDA_Zomboid, Personalized Zombies and Random Zombies.
-- **CDDA_Zomboid:** Enable the CDDA_Zomboid Patch version. **DO NOT ENABLE THE MAIN VERSION OF MY MOD. ONLY ENABLE THIS ONE**
+Reactive Zombies, as of Version 1.21, is now compatible with [CDDA_Zomboid](https://steamcommunity.com/sharedfiles/filedetails/?id=2914016243), [Personalized Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2851295427) and [Random Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2818577583).
+- You **MUST** use [ModManager](https://steamcommunity.com/sharedfiles/filedetails/?id=2694448564) for this to work. This way we make sure these mods load before Reactive Zombies. Mod order should be:
+    - other mods;
+    - ...;
+    - CDDA_Zomboid *OR* Personalized Zombies *OR* Random Zombies;
+    - Reactive Zombies OR Reactive Zombies - CDDA_Zomboid Patch.
+- **CDDA_Zomboid:** Enable the CDDA_Zomboid Patch version. **DO NOT ENABLE THE MAIN VERSION OF MY MOD. ONLY ENABLE THIS ONE**;
 - **PZ and RZ:** Built-in compatibility. All zombie attributes will be handled by them, zombie behavior will be handled by Reactive Zombies.
 
 ## More information

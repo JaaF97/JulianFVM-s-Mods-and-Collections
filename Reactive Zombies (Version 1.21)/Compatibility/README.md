@@ -1,7 +1,8 @@
 # Compatibility:
-- Compatible with:
+- **COMPATIBLE with:**
     - Active Zombies (Singleplayer);
     - CDDA_Zomboid **(ACTIVATE ONLY THE PATCH VERSION, DON'T ACTIVE BOTH!)**;
+        - Thinks that aren't available anymore: Toughness increase, Cognition increase.
     - Dynamic Traits and Expanded Moodles;
     - Personalized Zombies **(ACTIVATE ONLY THE PATCH VERSION, DON'T ACTIVE BOTH!)**;
         - Personalized Zombies will handle zombie attributes, my mod will handle zombie behavior;
@@ -10,10 +11,10 @@
         - Random Zombies will handle zombie attributes, my mod will handle zombie behavior;
         - This means only Demolisher Mode and all zombie behavior features of my mod will work. Random Zombies will do the rest (zombie strength and such).
     - Slower Sprinters \ Joggers and Runners.
-- Partly compatible with:
+- **PARTLY COMPATIBLE with:**
     - Fire Damage Rebalance (mod mechanic is implemented in my mod);
     - Night Sprinters (load after my mod, it won't be stable but it will work)
     - Under Cover of Darkness (mod mechanic is implemented in my mod);
-- Incompatible with:
+- **INCOMPATIBLE with:**
     - Any mod that changes Zombie.Lore or Zombie.Config. Some can be compatible, make sure to always load my mod at the bottom if possible (using ModManager)
     - Zambies (Can't do anything with this mod, sorry).
