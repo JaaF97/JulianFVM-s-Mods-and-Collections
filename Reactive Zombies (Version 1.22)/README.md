@@ -1,5 +1,5 @@
 # Reactive World: Reactive Zombies
-Zombie attributes and behavior change with your actions. Too aggressive? Zombies become stronger and tougher. Too passive? They get smarter. 
+Zombie attributes and behavior change with your actions. Too aggressive? Zombies become stronger and tougher. Too passive? They get smarter.
 
 ## Description:
 After months of slaying zombie after zombie, you may feel like they're too weak, they don't respond to your actions, they're just walking/sprinting things wanting to eat your brain, but that's it. They won't change, their strength is the same at day 1 and day 365. If they are about to die, they behave the same as if nothing is happening. Well, time to change all that!.
@@ -32,17 +32,19 @@ Zombie attributes and behavior are now dynamic. Long gone are the days where zom
 Every zombie attribute (strength, toughness, cognition, etc.) and behavior depends on these mechanics.
 
 ## Compatibility
-Reactive Zombies, as of Version 1.21, is now compatible with [CDDA_Zomboid](https://steamcommunity.com/sharedfiles/filedetails/?id=2914016243), [Personalized Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2851295427) and [Random Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2818577583).
+Reactive Zombies, as of Version 1.22, is now compatible with [CDDA_Zomboid](https://steamcommunity.com/sharedfiles/filedetails/?id=2914016243), [Personalized Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2851295427) and [Random Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2818577583).
 - You **MUST** use [ModManager](https://steamcommunity.com/sharedfiles/filedetails/?id=2694448564) for this to work. This way we make sure these mods load before Reactive Zombies. Mod order should be:
     - other mods;
     - ...;
     - CDDA_Zomboid *OR* Personalized Zombies *OR* Random Zombies;
-    - Reactive Zombies OR Reactive Zombies - CDDA_Zomboid Patch.
+    - The Darkness Is Coming! *(if used)*;
+    - Reactive Zombies *OR* Reactive Zombies - CDDA_Zomboid Patch.
 - **CDDA_Zomboid:** Enable the CDDA_Zomboid Patch version. **DO NOT ENABLE THE MAIN VERSION OF MY MOD. ONLY ENABLE THIS ONE**;
-- **PZ and RZ:** Built-in compatibility. All zombie attributes will be handled by them, zombie behavior will be handled by Reactive Zombies.
+- **TDiC:** The Darkness Is Coming has a sandbox option called "Update zombie lore on start of events". If this is true, TDiC will handle zombie attributes, my mod will handle zombie behavior, else, my mod will handle Zombie Lore;
+- **PZ, RZ:** Built-in compatibility. All zombie attributes will be handled by them, zombie behavior will be handled by Reactive Zombies.
 
 ## More information
-For more information about
+**Reactive Zombies** is currently **SP-only** compatible. For more information about
 - Changelog;
 - Compatibility;
 - Mod Mechanics.
@@ -54,11 +56,13 @@ Check Reactive Zombies (Version x) in [**GitHub**](https://github.com/JaaF97/Rea
 
 ## Planned Features:
 - **Add** save compatibility with already created saves; **DONE**
+- **Add** compatibility with **POPULAR** mods. Suggest in the comments sections mods I should make compatible with this!;
 - **Add** a new mechanic: If a player is badly injured, nearby zombies become faster to try to kill him (AKA Forced Last Resort);
-- **Add** compatibility with other mods. It's kind of hard to do this, as it requires to know what mods I should make this compatible with. Right now, this should work with most mods, but if a mod is similar to this one (changes zombies attributes or behavior), a patch isn't going to be possible.
+- **Add** compatibility with other mods. These are mods that aren't that popular, so compatibility issues won't be solved as fast as popular mods.
 
 # Support me:
 [![](https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png?_gl=1*p432j*_ga*NzY5MDg3NjU4LjE2ODI4NDA5MjU.*_ga_M13FZ7VQ2C*MTY4MjkxMjgyOC4zLjEuMTY4MjkxNDQ5OS41MS4wLjA.)](https://ko-fi.com/julianfvm)
 
 # Credits:
 - **The Indie Stone**, for making this beautiful game;
+[](https://i.imgur.com/3oySiKz.gif)

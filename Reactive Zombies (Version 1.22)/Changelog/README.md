@@ -1,4 +1,7 @@
 # CHANGELOG:
+(03/05/2023) Version 1.22:
+- Added compatibility patch for The Darkness Is Coming! by Monkey.
+
 (03/05/2023) Version 1.21C:
 - Hotfixed CDDA_Zomboid module.
 
