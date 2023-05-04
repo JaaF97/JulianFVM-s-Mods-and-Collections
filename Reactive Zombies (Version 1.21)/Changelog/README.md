@@ -1,5 +1,8 @@
-# CHANGELOG
-(03/05/2023) Version 1.21:
+# CHANGELOG:
+(03/05/2023) Version 1.21C:
+- Hotfixed CDDA_Zomboid module.
+
+(03/05/2023) Version 1.21 and 1.21B:
 - Added compatibility patch for Personalized Zombies by hectorzx (BUILT IN COMPATIBILITY);
 - Added compatibility patch for Random Zombies by belette (BUILT IN COMPATIBILITY).
 
