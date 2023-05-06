@@ -8,10 +8,10 @@ This mod is part of my [**mod collection**](https://steamcommunity.com/sharedfil
 [![](https://i.ibb.co/W5PkHbn/Promo.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2969507692)
 
 ## Mod Content:
-**61** new sound events for you to listen. These events come in different types:
-- **Animal Sound Events:** 4 new sounds (dogs, crows for now);
-- **Gunfight Sound Events:** 11 new sounds, featuring survivors fighting zombies;
-- **Human Gunfight Sound Events:** 11 new sounds, featuring survivors fighting other survivors;
+**65** new sound events for you to listen. These events come in different types:
+- **Animal Sound Events:** 6 new sounds (dogs, crows for now);
+- **Gunfight Sound Events:** 12 new sounds, featuring survivors fighting zombies or other survivors;
+- **Gunshot Sound Events:** 11 new sounds, featuring survivors firing their gun;
 - **Miscellaneous Sound Events:** 10 new sounds, featuring people doing stuff in the streets or at bases;
 - **Screaming Sound Events:** 7 new sounds, featuring survivors screaming out of control (only god knows what things they ran into);
 - **Vehicle Crash Sound Events:** 5 new sounds of vehicle accidents;
@@ -24,14 +24,18 @@ These events have what I call **"preferences"**, these are moments where a type 
     - A player is considered **passive** if he/she doesn't kill zombies for X days (customizable in Sandbox Settings);
     - A player is considered **aggresive** if he/she kills X zombies per day (customizable in Sandbox Settings).
 
+## More Information:
+**Works in SP only**. For more information about this mod, check Reactive Sound Events (Version x) in [**GitHub**](https://github.com/JaaF97/Reactive-World-Mod-Collection)
+
 ## Help! This doesn't work:
 - Make sure you are subscribed and **ENABLED** my mod to my mod;
 - If you started a world with this mod enabled, and the mod updated, don't worry, it's **save compatible**.
 
 ## Planned Features:
 - **Add** save compatibility with already created saves; **DONE**
-- **Player Reactions:** Waking up, panic, stress;
+- **Rework** sounds completely (normalize volume, remove unwated sounds); **DONE**
 - **Separate Weather Events:** Make it so weather events can happen on their own if certain conditions are met, without interfering the other events;
+- **Player Reactions:** Waking up, panic, stress;
 - **Event Radius:** Add an option for the player to decide how the mod should handle event radius (currently, you'll always hear the sound);
 - **Add** more sound events (Gunfight, Zombies, Weather -blizzard-,);
 - **Add** new types of sound events (currently none planned, feel free to post your suggestions);
