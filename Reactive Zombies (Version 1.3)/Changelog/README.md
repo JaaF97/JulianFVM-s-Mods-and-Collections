@@ -1,4 +1,9 @@
 # CHANGELOG:
+(11/05/2023) Version 1.3:
+- Added compatibility patch for Night Sprinters [41.60+] by The Illuminati;
+- Fixed Last Resort not working in old saves;
+- Refined code a bit.
+
 (03/05/2023) Version 1.22:
 - Added compatibility patch for The Darkness Is Coming! by Monkey.
 
