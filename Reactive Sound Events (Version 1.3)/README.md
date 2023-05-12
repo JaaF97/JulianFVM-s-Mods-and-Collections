@@ -36,10 +36,9 @@ These events have what I call **"preferences"**, these are moments where a type 
 - **Rework** sounds completely (normalize volume, remove unwated sounds); **DONE**
 - **Separate Weather Events:** Make it so weather events can happen on their own if certain conditions are met, without interfering the other events; **DONE**
 - **Player Reactions:** Waking up, panic, stress;
-- **Event Radius:** Add an option for the player to decide how the mod should handle event radius (currently, you'll always hear the sound);
-- **Add** more sound events (Gunfight, Zombies, Weather -blizzard-,);
-- **Add** new types of sound events (currently none planned, feel free to post your suggestions);
+- **Event Probability:** Add an option for the player to decide how the mod should handle event probability (currently, it scales to a 100% at max cooldown);
 - Adding **more preferences**: For example, world age;
+- **Add** new types of sound events (currently none planned, feel free to post your suggestions);
 - **Event Scenes:** For example, if a gunfight is triggered, generate a scene where a couple of survivors died and left some loot up for grabs;
 
 # Support me:
