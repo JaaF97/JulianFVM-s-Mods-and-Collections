@@ -1,4 +1,9 @@
 # CHANGELOG:
+(12/05/2023) Version 1.31:
+- Hotfix for CDDA_Zomboid Patch;
+- Normalized sounds (need feedback if it's still too loud);
+- Added option to remove Last Resort Zombie death sound.
+
 (11/05/2023) Version 1.3:
 - Added compatibility patch for Night Sprinters [41.60+] by The Illuminati;
 - Fixed Last Resort not working in old saves;
