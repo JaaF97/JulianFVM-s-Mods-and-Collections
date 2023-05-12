@@ -34,7 +34,7 @@ These events have what I call **"preferences"**, these are moments where a type 
 ## Planned Features:
 - **Add** save compatibility with already created saves; **DONE**
 - **Rework** sounds completely (normalize volume, remove unwated sounds); **DONE**
-- **Separate Weather Events:** Make it so weather events can happen on their own if certain conditions are met, without interfering the other events;
+- **Separate Weather Events:** Make it so weather events can happen on their own if certain conditions are met, without interfering the other events; **DONE**
 - **Player Reactions:** Waking up, panic, stress;
 - **Event Radius:** Add an option for the player to decide how the mod should handle event radius (currently, you'll always hear the sound);
 - **Add** more sound events (Gunfight, Zombies, Weather -blizzard-,);
