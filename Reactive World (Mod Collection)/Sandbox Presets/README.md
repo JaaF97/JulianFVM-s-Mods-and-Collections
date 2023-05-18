@@ -35,7 +35,7 @@
     - Population Multiplier: 1.0
     - Population Peak: 1.0
     - Redistribute Hours: 10
-    - Follow Sound Distance: 350
+    - Follow Sound Distance: 100
 ### Reactive World (Normal):
 - **Time:** 09/09/1993 (September 9th) at 7am
 - **World:**
@@ -70,7 +70,7 @@
     - Population Multiplier: 1.0
     - Population Peak: *1.5*
     - Redistribute Hours: 10
-    - Follow Sound Distance: 350
+    - Follow Sound Distance: *150*
 ### Reactive World (Hard):
 - **Time:** 09/11/1993 (November 9th) at 7am
 - **World:**
@@ -115,4 +115,4 @@
     - Population Multiplier: *1.5*
     - Population Peak: 1.5
     - Redistribute Hours: *8*
-    - Follow Sound Distance: *500*
+    - Follow Sound Distance: *350*

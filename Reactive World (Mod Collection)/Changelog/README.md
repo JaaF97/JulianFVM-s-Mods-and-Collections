@@ -1,3 +1,7 @@
+# Version 2.2 (18/05/23):
+**MODS CHANGES:**
+- Added [Nepenthe's Colored Engine Status;](https://steamcommunity.com/sharedfiles/filedetails/?id=2975204120)
+- Added [Nepenthe's Nearby Traps.](https://steamcommunity.com/sharedfiles/filedetails/?id=2974760428)
 # Version 2.1 (03/05/23):
 **MODS CHANGES:**
 - Added [Autotsar Tuning Atelier - Jaap Wrungel [TUNING 2.0];](https://steamcommunity.com/sharedfiles/filedetails/?id=2636100523)
