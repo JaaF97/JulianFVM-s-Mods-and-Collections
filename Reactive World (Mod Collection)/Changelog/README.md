@@ -1,3 +1,9 @@
+# Version 2.4 (27/05/23):
+Fixed some missing tiles for the maps added before, and added some new mods!
+**MODS CHANGES:**
+- Added [Reorder Containers - Backpack Orders](https://steamcommunity.com/sharedfiles/filedetails/?id=2901962885):
+- Added [Shark and Cytt's Kentucky Car Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2807356025):
+- Removed [No Vanilla Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2535461640). Shark and Cytt's mod replaces vanilla vehicles, which are terrible and that's why I used this mod.
 # Version 2.3 (24/05/23):
 This update adds a couple of maps! You can add these cell changes to your saves, to do that follow [this](https://steamcommunity.com/sharedfiles/filedetails/?id=2547762158) guide
 **MODS CHANGES:**
