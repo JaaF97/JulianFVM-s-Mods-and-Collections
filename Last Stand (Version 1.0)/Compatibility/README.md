@@ -1,0 +1,14 @@
+# Compatibility:
+- **COMPATIBLE with:**
+- Active Zombies (Singleplayer);
+- Dynamic Traits and Expanded Moodles;
+- Night Sprinters: Compatible;
+- Slower Sprinters / Joggers and Runners;
+- **PARTLY COMPATIBLE with:**
+- Definitive Zombies: Can work without changing anything, I use the mod and it works well. But, for maximum compatible, disable either Definite Zombies speed changes or disable zombies get faster in Last Stand.
+- Personalized Zombies: Disable either Personalized Zombies speed changes or disable zombies get faster in Last Stand.
+- Random Zombies: Disable either Random Zombies speed changes or disable zombies get faster in Last Stand.
+- The Darkness Is Coming!: Disable "Update zombie lore on start of events" for it to be compatible.
+- **INCOMPATIBLE with:**
+- CDDA_Zomboid;
+- Zambies.

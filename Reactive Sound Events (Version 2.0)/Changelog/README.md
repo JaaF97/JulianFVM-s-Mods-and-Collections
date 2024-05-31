@@ -1,4 +1,12 @@
 # CHANGELOG:
+(31/05/2024) Version 2.0:
+- Reworked the code;
+- Reworked the sounds volumes;
+- Added panic options for player;
+- Added wake-up options for player;
+- Sounds will now check where the player is (rural zone, city zone) and calculate what events can happen
+- Event Scens WIP, still not added (surely will come as a separate mod)
+
 (12/05/2023) Version 1.3:
 - Added Weather Separation (changable in sandbox settings, separate weather events from other events, and work on their own);
 - Refined code a bit (still, could be better tbf).
