@@ -26,3 +26,5 @@ If you want everything to work well together, use [ModManager](https://steamcomm
   - If you have other modlists saved, don't paste the .txt file. Paste its content. Otherwise, you'll lose your saved modlists;
   - saved_modlists.txt is also available in Discussions/saved_modlists.txt;
   - Sandbox Settings are also available in Discussions/Sandbox Settings.
+- **Multiplayer**
+  - Check out [**this**](https://steamcommunity.com/workshop/filedetails/discussion/3259002706/4331979876127865806/) discussion about MP. No Way Out was built for SP, and I don't know much about setting up a server, so I won't be giving support to MP issues. I give you the basic files you need though. You can discuss freely in the link provided.
