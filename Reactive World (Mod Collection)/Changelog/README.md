@@ -1,3 +1,5 @@
+# Version 2.5 (09/06/24):
+Mod has been updated after a year! Some changes are still being tested. Changes are too many to list (removed like 80 mods and added another 50). Still trying to choose which weapon pack to add (if any)
 # Version 2.4 (27/05/23):
 Fixed some missing tiles for the maps added before, and added some new mods!
 **MODS CHANGES:**
