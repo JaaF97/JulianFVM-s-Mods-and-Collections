@@ -1,4 +1,14 @@
 # CHANGELOG:
+(10/06/2024) Version 2.1b:
+- Hotfixed the removal of 2 scream events
+
+(10/06/2024) Version 2.1:
+- As said before, 2.0 reworked the code, this version improves even more on that;
+- Tweaked sandbox settings a bit (minimum range from 50 to 200)
+- Added spanish translation (aguante Argentina papá)
+- Removed Misc Events entirely (making room for new event types coming soon);
+- Removed 2 scream events.
+
 (31/05/2024) Version 2.0:
 - Reworked the code;
 - Reworked the sounds volumes;

@@ -8,12 +8,11 @@ This mod is part of my [**mod collection**](https://steamcommunity.com/sharedfil
 [![](https://i.ibb.co/W5PkHbn/Promo.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2969507692)
 
 ## Mod Content:
-**63** new sound events for you to listen. These events come in different types:
+**51** new sound events for you to listen. These events come in different types:
 - **Animal Sound Events (6)**
 - **Gunfight Sound Events (12):** Survivors fighting zombies or other survivors;
 - **Gunshot Sound Events (11):** Survivors firing their gun;
-- **Miscellaneous Sound Events (10):** People doing stuff in the streets or at bases;
-- **Screaming Sound Events (7):** Survivors screaming out of control;
+- **Screaming Sound Events (5):** Survivors screaming out of control;
 - **Vehicle Crash Sound Events (5):** Vehicle accidents;
 - **Weather Sound Events (8)**
 - **Zombie Sound Events (4):** More frecuent at night.
