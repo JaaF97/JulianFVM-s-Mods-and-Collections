@@ -1,3 +1,11 @@
+# Version 2.6 (12/06/24):
+**MODS CHANGES:**
+- Added [Ekron][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2712480036];
+- Added [Fort Rock Ridge][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2806456685];
+- Added [Research Facility, KY][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807152393];
+- Added [Snow is water][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2704811006];
+- Added [Backpack Borders][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2808679062];
+- Added [Reorder Containers - Backpack Orders](https://steamcommunity.com/sharedfiles/filedetails/?id=2901962885).
 # Version 2.5 (09/06/24):
 Mod has been updated after a year! Some changes are still being tested. Changes are too many to list (removed like 80 mods and added another 50). Still trying to choose which weapon pack to add (if any)
 # Version 2.4 (27/05/23):
