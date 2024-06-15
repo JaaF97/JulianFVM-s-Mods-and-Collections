@@ -1,4 +1,7 @@
 # CHANGELOG:
+(15/06/2024) Version 2.2:
+- Consolidated 2.1 updates and hotfixes.
+
 (10/06/2024) Version 2.1b:
 - Hotfixed the removal of 2 scream events
 
